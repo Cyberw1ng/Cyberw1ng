@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://x.com/cyberw1ng" target="blank"><img src="https://img.shields.io/twitter/follow/cyberw1ng?logo=twitter&style=for-the-badge" alt="Cyberw1ng" /></a> </p>
 
-- 🔭 I’m currently working at [CubeAISolutions](https://cubeaisolutions.com/)
+- 🔭 I’m currently working at [Null)
 
 - 🔥 I’m good at developing tools/Software for Cyber Security/Investigation 
 <img  align="right" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
