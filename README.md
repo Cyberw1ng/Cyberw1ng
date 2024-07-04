@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan Nagaraj (Cyberw1ng)</h1>
-<h3 align="center">Security Researcher and an Ethical Hacker from India</h3>
+<h3 align="center">A Security Researcher and an Ethical Hacker from India</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=cyberw1ng" alt="Karthikeyan Nagaraj" /></p>
 
