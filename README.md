@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/cyberw1ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthithehacker" height="30" width="40" /></a>
+<a href="https://x.com/cyberw1ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthikeyan Nagaraj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/karthikeyan-nagaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cyberw1ng" height="30" width="40" /></a>
 <a href="https://instagram.com/cyberw1ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Karthikeyan Nagaraj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Karthikeyan-Nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Cyberw1ng" height="30" width="40" /></a>
@@ -95,8 +95,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberw1ng&show_icons=true&locale=en" alt="karthi-the-hacker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberw1ng&show_icons=true&locale=en" alt="karthikeyan nagaraj" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberw1ng&show_icons=true&locale=en&layout=compact" alt="karthi-the-hacker" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberw1ng&show_icons=true&locale=en&layout=compact" alt="karthikeyan nagaraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberw1ng&" alt="karthi-the-hacker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberw1ng&" alt="karthikeyan nagaraj" /></p>
