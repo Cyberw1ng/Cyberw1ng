@@ -7,8 +7,7 @@
 
 <p align="center">
   Visitor count<br>
-  <a href="https://profile-counter.glitch.me/cyberw1ng/reset">
-    <img src="https://profile-counter.glitch.me/cyberw1ng/count.svg" />
+      <img src="https://profile-counter.glitch.me/cyberw1ng/count.svg" />
   </a>
 </p>
 
