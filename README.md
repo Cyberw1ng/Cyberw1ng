@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://x.com/cyberw1ng" target="blank"><img src="https://img.shields.io/twitter/follow/cyberw1ng?logo=twitter&style=for-the-badge" alt="Cyberw1ng" /></a> </p>
 
+<p align="center">
+  Visitor count<br>
+  <a href="https://profile-counter.glitch.me/cyberw1ng/reset">
+    <img src="https://profile-counter.glitch.me/cyberw1ng/count.svg" />
+  </a>
+</p>
+
+
 - 🔭 I’m currently working at [Null)
 
 - 🔥 I’m good at developing tools/Software for Cyber Security/Investigation 
